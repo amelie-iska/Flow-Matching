@@ -1,3 +1,7 @@
-[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Blog%20Post-ffcc4d)]() [![Paper](https://img.shields.io/badge/PDF-Download%20Paper-blue)](./main.pdf)
+# Flow-Matching project page
 
-A differential topology introduction to flow-matching models with applications to generative biomolecular dynamics via quantum-accurate oracle training paradigms. 
+Static source-pinned research landing page with an original interactive reference.
+Serve this directory with an existing HTTP server; no package installation.
+Dark default/light toggle, responsive navigation, keyboard controls and reduced-motion support.
+Publication has not been attempted. Source worktrees and training remain untouched.
+See provenance.json and ../checks for validation.

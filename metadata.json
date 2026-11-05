@@ -1,0 +1,23 @@
+{
+  "name": "Flow-Matching",
+  "title": "Flow-Matching",
+  "description": "Differential-topology foundations for flow matching and proposed energy-based biomolecular design.",
+  "tags": [
+    "generative-models",
+    "geometry",
+    "molecular-design"
+  ],
+  "status": "Research manuscript; no training implementation shipped.",
+  "url": "https://amelie-iska.github.io/Flow-Matching/",
+  "repository": "https://github.com/amelie-iska/Flow-Matching",
+  "source_commit": "df2f332f6b850e48b6acb449c34228aca9e7c8d3",
+  "project_page_preexisting": false,
+  "publication_status": "public-release",
+  "no_training_launched": true,
+  "validation": {
+    "numerical": "missing-project-pages/Flow-Matching/checks/numerical-checks.json",
+    "static": "missing-project-pages/Flow-Matching/checks/static-checks.json",
+    "browser": "qa/leaves-v1/browser-report.json",
+    "remote_firefox": true
+  }
+}
